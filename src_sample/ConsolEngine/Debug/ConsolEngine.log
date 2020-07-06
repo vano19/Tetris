@@ -1,0 +1,6 @@
+﻿cl : Command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  TestApp.cpp
+c:\users\ichiklikchi\downloads\juniorc++\src_sample\consolengine\testapp.cpp(15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\ichiklikchi\downloads\juniorc++\src_sample\consolengine\testapp.cpp(196): warning C4018: '<': signed/unsigned mismatch
+c:\users\ichiklikchi\downloads\juniorc++\src_sample\consolengine\testapp.cpp(254): warning C4305: '*=': truncation from 'double' to 'float'
+  ConsolEngine.vcxproj -> C:\Users\ichiklikchi\Downloads\JuniorC++\src_sample\ConsolEngine\Debug\ConsolEngine.exe
